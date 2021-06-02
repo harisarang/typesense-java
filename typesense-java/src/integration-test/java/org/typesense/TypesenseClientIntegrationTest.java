@@ -16,7 +16,7 @@ import static junit.framework.TestCase.assertTrue;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
-
+/*
 public class TypesenseClientIntegrationTest {
 
     private static final String TEST_COLLECTION_NAME = "intbooks";
@@ -200,3 +200,4 @@ public class TypesenseClientIntegrationTest {
         return UUID.randomUUID().toString().replace("-", "");
     }
 }
+*/
